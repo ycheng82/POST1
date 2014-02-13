@@ -1,0 +1,7 @@
+1000	giraffe	1.50
+2000	lark	10.00
+3000	Yamaha TX500 motorcy	500.00
+4000	potato	0.50
+
+
+5000	ipad	200.00
